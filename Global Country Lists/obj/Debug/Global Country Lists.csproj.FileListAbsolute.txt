@@ -1,0 +1,6 @@
+c:\users\paperspace\documents\visual studio 2015\Projects\Global Country Lists\Global Country Lists\bin\Debug\Global Country Lists.exe.config
+c:\users\paperspace\documents\visual studio 2015\Projects\Global Country Lists\Global Country Lists\bin\Debug\Global Country Lists.exe
+c:\users\paperspace\documents\visual studio 2015\Projects\Global Country Lists\Global Country Lists\bin\Debug\Global Country Lists.pdb
+c:\users\paperspace\documents\visual studio 2015\Projects\Global Country Lists\Global Country Lists\obj\Debug\Global Country Lists.csprojResolveAssemblyReference.cache
+c:\users\paperspace\documents\visual studio 2015\Projects\Global Country Lists\Global Country Lists\obj\Debug\Global Country Lists.exe
+c:\users\paperspace\documents\visual studio 2015\Projects\Global Country Lists\Global Country Lists\obj\Debug\Global Country Lists.pdb

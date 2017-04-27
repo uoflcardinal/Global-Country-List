@@ -1,0 +1,8 @@
+﻿Countries:
+United States
+Germany
+France
+Australia
+Cuba
+Canada
+Mexico
